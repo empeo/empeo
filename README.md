@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Egypt</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&multiline=true&width=700&height=330&lines=Passionate+Backend+Developer;Exploring+New+Technologies;Focused+on+Laravel+%26+Django" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&multiline=true&width=700&height=200&lines=Passionate+Backend+Developer;Exploring+New+Technologies;Focused+on+Laravel+%26+Django" alt="Typing Animation" />
 </p>
 
 <div align="center">
