@@ -22,8 +22,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 - 🔭 I’m currently working on **Laravel Backend Projects**  
-- 🌱 I’m currently learning **Django** and **Swagger API**  
-- 💬 Ask me about **HTML, CSS, JavaScript, Laravel, PHP, MySQL, Python**  
+- 💬 Ask me about **HTML, CSS, JavaScript, Laravel, PHP, MySQL**  
 - 🎯 Fun Fact: I love solving complex backend problems and building seamless APIs!  
 
 ---
